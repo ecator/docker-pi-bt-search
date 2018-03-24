@@ -13,3 +13,6 @@ docker build -t ecat/docker-pi-bt-search .
 ```
 docker run -d --name docker-pi-bt-search -p 88:80 ecat/docker-pi-bt-search 
 ```
+## 其他
+
+**请在树莓派上运行**
